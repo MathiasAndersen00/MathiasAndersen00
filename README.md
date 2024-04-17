@@ -1,7 +1,5 @@
 # Local neighbourhood programmer
 
-I like API's and databases
-
 > [!TIP]
 > I like API's and databases
 
