@@ -1,16 +1,13 @@
-### Hi there 👋
+# Local neighbourhood programmer
 
-<!--
-**MathiasAndersen00/MathiasAndersen00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I like API's and databases
 
-Here are some ideas to get you started:
+> [!TIP]
+> I like API's and databases
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+>[!CAUTION]
+>Criminal History
+>
+> - [x] Casting Spells with deadly intent
+> - [x] Legalizing nuclear bombs
+> - [x] Member of the Shadow Government
