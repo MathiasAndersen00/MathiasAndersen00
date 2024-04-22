@@ -7,5 +7,4 @@
 >Criminal History
 >
 > - [x] Casting Spells with deadly intent
-> - [x] Legalizing nuclear bombs
-> - [x] Member of the Shadow Government
+> - [x] Shadow Wizard
